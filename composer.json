@@ -1,5 +1,5 @@
 {
-    "name"  : "workerman/phpsocket.io",
+    "name"  : "yuanling/phpsocket.io",
     "type"  : "library",
     "keywords": ["socket.io"],
     "homepage": "http://www.workerman.net",
